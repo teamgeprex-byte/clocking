@@ -38,6 +38,7 @@
 	<link rel="amphtml" href="https://about-b2j.pages.dev/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://imgsaya3.io/images/2026/03/01/ICON-2.png">
+	<meta name="google-site-verification" content="bxRMHp4OnSOmkv949poWyM7IwBqvAlNtaMtlDXeYtwg" />
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://imgsaya3.io/images/2026/03/01/ICON-2.png" sizes="72x72">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://imgsaya3.io/images/2026/03/01/ICON-2.png" sizes="114x114">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://imgsaya3.io/images/2026/03/01/ICON-2.png" sizes="120x120">
@@ -47,7 +48,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://dentalmedica.ru/about/">
+    <link rel="canonical" href="https://dentalmedica.ru/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -61,10 +62,10 @@
   },
   "sku": "1654601398",
   "mpn": "77GCR-001",
-  "url": "https://dentalmedica.ru/about/",
+  "url": "https://dentalmedica.ru/",
   "offers": {
     "@type": "Offer",
-    "url": "https://dentalmedica.ru/about/",
+    "url": "https://dentalmedica.ru/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -118,31 +119,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Agen Slot",
-      "item": "https://dentalmedica.ru/about/"
+      "item": "https://dentalmedica.ru/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "AGEN SLOT ONLINE",
-      "item": "https://dentalmedica.ru/about/"
+      "item": "https://dentalmedica.ru/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT DEPO 5K",
-      "item": "https://dentalmedica.ru/about/"
+      "item": "https://dentalmedica.ru/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT MIN DEPO 5K",
-      "item": "https://dentalmedica.ru/about/"
+      "item": "https://dentalmedica.ru/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT RESMI",
-      "item": "https://dentalmedica.ru/about/"
+      "item": "https://dentalmedica.ru/"
     }
   ]
 }
@@ -153,12 +154,12 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "AGEN SLOT ONLINE",
-  "url": "https://dentalmedica.ru/about/",
+  "url": "https://dentalmedica.ru/",
   "logo": "https://imgsaya3.io/images/2026/01/28/5K-DEPO.gif",
   "sameAs": [
-    "https://dentalmedica.ru/about/",
-    "https://dentalmedica.ru/about/",
-    "https://dentalmedica.ru/about/"
+    "https://dentalmedica.ru/",
+    "https://dentalmedica.ru/",
+    "https://dentalmedica.ru/"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
@@ -181,7 +182,7 @@
     <meta property="og:title" content="Agen Slot Online Depo 5k Qris Resmi Mudah Menang ">
     <meta property="og:description" content="Agen slot online depo 5k qris resmi dengan transaksi cepat dan aman dengan modal ringan, akses mudah, dan permainan lengkap untuk pengalaman bermain yang praktis dan nyaman."><meta property="og:image" content="https://authconfig.lol/images/2026/03/04/Agen-Slot-Online-Depo-5k-Qris-Resmi-Mudah-Menang.jpg"/>
     <meta property="og:image:alt" content="AGEN SLOT ONLINE"/>
-    <meta property="og:url" content="https://dentalmedica.ru/about/">
+    <meta property="og:url" content="https://dentalmedica.ru/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image"/>
@@ -191,7 +192,7 @@
     <meta name="twitter:image:alt" content="AGEN SLOT ONLINE"/>
     <meta property="og:title" content="Agen Slot Online Depo 5k Qris Resmi Mudah Menang ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dentalmedica.ru/about/">
+    <meta property="og:url" content="https://dentalmedica.ru/">
     <meta property="og:image" content="https://authconfig.lol/images/2026/03/04/Agen-Slot-Online-Depo-5k-Qris-Resmi-Mudah-Menang.jpg"/>
     <meta property="og:image:alt" content="AGEN SLOT ONLINE"/>
     <meta property="og:description" content="Agen slot online depo 5k qris resmi dengan transaksi cepat dan aman dengan modal ringan, akses mudah, dan permainan lengkap untuk pengalaman bermain yang praktis dan nyaman.">
@@ -847,14 +848,14 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://dentalmedica.ru/about/">AGEN SLOT ONLINE</a>
-<a href="https://dentalmedica.ru/about/">AGEN SLOT DEPO 5K</a>
-<a href="https://dentalmedica.ru/about/">SLOT DEPO 5K</a>
-<a href="https://dentalmedica.ru/about/">SLOT MIN DEPO 5K</a>
-<a href="https://dentalmedica.ru/about/">SITUS SLOT DEPO 5K</a>
-<a href="https://dentalmedica.ru/about/">SLOT RESMI</a>
-<a href="https://dentalmedica.ru/about/">SITUS SLOT RESMI</a>
-<a href="https://dentalmedica.ru/about/">SLOT ONLINE</a>
+<a href="https://dentalmedica.ru/">AGEN SLOT ONLINE</a>
+<a href="https://dentalmedica.ru/">AGEN SLOT DEPO 5K</a>
+<a href="https://dentalmedica.ru/">SLOT DEPO 5K</a>
+<a href="https://dentalmedica.ru/">SLOT MIN DEPO 5K</a>
+<a href="https://dentalmedica.ru/">SITUS SLOT DEPO 5K</a>
+<a href="https://dentalmedica.ru/">SLOT RESMI</a>
+<a href="https://dentalmedica.ru/">SITUS SLOT RESMI</a>
+<a href="https://dentalmedica.ru/">SLOT ONLINE</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -941,7 +942,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://dentalmedica.ru/about/">EnvatoMarket</a>
+                    <a href="https://dentalmedica.ru/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -949,40 +950,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://dentalmedica.ru/about/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://dentalmedica.ru/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/about/">
+                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/about/">
+                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/about/">
+                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/about/">
+                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/about/">
+                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/about/">
+                    <a class="off-canvas-left__site" href="https://dentalmedica.ru/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -991,7 +992,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://dentalmedica.ru/about/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://dentalmedica.ru/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1006,393 +1007,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://dentalmedica.ru/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://dentalmedica.ru/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Real
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://dentalmedica.ru/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link--empty" href="https://dentalmedica.ru/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://dentalmedica.ru/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://dentalmedica.ru/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link--empty" href="https://dentalmedica.ru/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://dentalmedica.ru/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://dentalmedica.ru/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://dentalmedica.ru/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://dentalmedica.ru/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link--empty" href="https://dentalmedica.ru/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://dentalmedica.ru/about/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://dentalmedica.ru/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Free
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/about/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://dentalmedica.ru/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://dentalmedica.ru/about/">Unlimited
+                                    href="https://dentalmedica.ru/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1402,7 +1403,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://dentalmedica.ru/about/">Unlimited
+                            href="https://dentalmedica.ru/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1414,7 +1415,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://dentalmedica.ru/about/">
+                <a class="off-canvas-right__link--cart" href="https://dentalmedica.ru/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1439,7 +1440,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://dentalmedica.ru/about/">
+                                    <a class="btn btn--square" href="https://dentalmedica.ru/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1456,21 +1457,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://dentalmedica.ru/about/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://dentalmedica.ru/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://dentalmedica.ru/about/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://dentalmedica.ru/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://dentalmedica.ru/about/">
+                                    <a href="https://dentalmedica.ru/">
                                         <img alt="Logo Baru" src="https://imgsaya3.io/images/2026/01/28/5K-DEPO.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1485,19 +1486,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://dentalmedica.ru/about/">
+                                    <a href="https://dentalmedica.ru/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imgsaya3.io/images/2026/01/28/5K-DEPO.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://dentalmedica.ru/about/">
+                                                <a class="global-header-menu__link" href="https://dentalmedica.ru/">
                                                     <span class="global-header-menu__link-text">
                                                         AGEN SLOT 
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://dentalmedica.ru/about/">
+                                                <a class="global-header-menu__link" href="https://dentalmedica.ru/">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT DEPO 5K
                                                     </span>
@@ -1519,7 +1520,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://dentalmedica.ru/about/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://dentalmedica.ru/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1553,21 +1554,21 @@
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://dentalmedica.ru/about/">AGEN SLOT ONLINE</a>
+                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://dentalmedica.ru/">AGEN SLOT ONLINE</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Code" href="https://dentalmedica.ru/about/">AGEN SLOT DEPO 5K</a>
+                                            <a class="header-site-titles__link t-link" alt="Code" href="https://dentalmedica.ru/">AGEN SLOT DEPO 5K</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Video" href="https://dentalmedica.ru/about/">SLOT DEPO 5K</a>
+                                            <a class="header-site-titles__link t-link" alt="Video" href="https://dentalmedica.ru/">SLOT DEPO 5K</a>
                                         </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1"><a class="header-site-titles__link t-link" alt="Music" href="https://dentalmedica.ru/about/">SLOT MIN DEPO 5K</a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://dentalmedica.ru/about/">SITUS SLOT DEPO 5K</a>
+                                        <div class="header-site-titles__site" bis_skin_checked="1"><a class="header-site-titles__link t-link" alt="Music" href="https://dentalmedica.ru/">SLOT MIN DEPO 5K</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://dentalmedica.ru/about/">SLOT RESMI</a>
+                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://dentalmedica.ru/">SITUS SLOT DEPO 5K</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://dentalmedica.ru/">SLOT RESMI</a>
                                         </div>
                                         <div class="header-site-titles__site elements-nav__container" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link elements-nav__main-link" href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net" target="_blank">
@@ -1626,14 +1627,14 @@
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <ul class="header-categories__links">
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://dentalmedica.ru/about/">
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://dentalmedica.ru/">
 
                                                 AGEN SLOT ONLINE
 
                                             </a>
                                         </li>
                                <div class="header-categories__search" bis_skin_checked="1">
-                                        <form id="search" data-view="searchField" action="https://dentalmedica.ru/about/" accept-charset="UTF-8" method="get">
+                                        <form id="search" data-view="searchField" action="https://dentalmedica.ru/" accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
                                                     <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="Search">
@@ -1658,12 +1659,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://dentalmedica.ru/about/">AGEN SLOT ONLINE</a>
+                                <a class="js-breadcrumb-category" href="https://dentalmedica.ru/">AGEN SLOT ONLINE</a>
 
 
-                                <a href="https://dentalmedica.ru/about/" class="js-breadcrumb-category">AGEN SLOT DEPO 5K</a><a class="js-breadcrumb-category" href="https://dentalmedica.ru/about/">SLOT DEPO 5K</a>
+                                <a href="https://dentalmedica.ru/" class="js-breadcrumb-category">AGEN SLOT DEPO 5K</a><a class="js-breadcrumb-category" href="https://dentalmedica.ru/">SLOT DEPO 5K</a>
 
-                                <a class="js-breadcrumb-category" href="https://dentalmedica.ru/about/">SLOT ONLINE</a>
+                                <a class="js-breadcrumb-category" href="https://dentalmedica.ru/">SLOT ONLINE</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1691,7 +1692,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://dentalmedica.ru/about/">AGEN SLOT ONLINE</a>
+                                        By <a rel="author" class="js-by-author" href="https://dentalmedica.ru/">AGEN SLOT ONLINE</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1725,7 +1726,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://dentalmedica.ru/about/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://dentalmedica.ru/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -2005,13 +2006,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://dentalmedica.ru/about/"><span
+                                                        href="https://dentalmedica.ru/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://dentalmedica.ru/about/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://dentalmedica.ru/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2080,7 +2081,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://dentalmedica.ru/about/">
+                                <a class="item-description-toggle__link" href="https://dentalmedica.ru/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2119,7 +2120,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Agen Slot Online Depo 5k Qris Resmi Mudah Menang &quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://dentalmedica.ru/about/" accept-charset="UTF-8" method="post">
+                                    action="https://dentalmedica.ru/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2150,7 +2151,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://dentalmedica.ru/about//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://dentalmedica.ru//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2788,7 +2789,7 @@ const swiper = new Swiper('.swiper', {
  <h1>Agen Slot Online Depo 5k Qris Resmi Mudah Menang </h1>
 
   <p>
-    <a href="https://dentalmedica.ru/about/">Agen Slot Online Depo 5k Qris Resmi Mudah Menang</a> merupakan pilihan tepat bagi pemain yang ingin menikmati permainan slot dengan modal ringan dan peluang menang menarik.
+    <a href="https://dentalmedica.ru/">Agen Slot Online Depo 5k Qris Resmi Mudah Menang</a> merupakan pilihan tepat bagi pemain yang ingin menikmati permainan slot dengan modal ringan dan peluang menang menarik.
     Cukup deposit mulai 5 ribu rupiah melalui QRIS, proses transaksi menjadi cepat, aman, dan praktis sehingga pemain bisa langsung menikmati berbagai pilihan game slot lengkap dengan akses mudah melalui perangkat mobile maupun desktop.
   </p>
 
@@ -2815,7 +2816,7 @@ const swiper = new Swiper('.swiper', {
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"f049d4674e6148b0a250f7f5eaf7843a","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"aa3a1cfd53e44a419783c48645fa25ee","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
   <footer>
-    <p> | <a href="https://dentalmedica.ru/about/">SLOT ONLINE</a></p>
+    <p> | <a href="https://dentalmedica.ru/">SLOT ONLINE</a></p>
   </footer>
   
 </div></section><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"2ef72a44ef11447293ff959df7b9891b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
