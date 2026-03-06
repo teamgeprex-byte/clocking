@@ -1,0 +1,32 @@
+<div class="toto 4d" style="position:absolute; left:-9999px; display: none;">
+<a href="https://veroniqtrends.com/privacy-policy/">slot dana</a>		
+<a href="https://betasesores.es/nosotros">agenslot</a>
+<a href="https://tournecooking.com/tag/angry-crab-trifecta-sauce-recipe/">iblbet</a>
+<a href="https://http://www.toyomemory.com.my/pages/cn_us.html">slot deposit qris</a>
+<a href="https://tense.be/contact/">slot depo 5k</a>
+<a href="https://www.grupoacert.com.br/">link slot gacor</a>
+<a href="https://www.grupoacert.com.br/">slot depo 5k</a>
+<a href="https://tense.be/contact/">agen slot</a>
+</div>
+
+<?php
+/**
+ * Loads the WordPress environment and template.
+ *
+ * @package WordPress
+ */
+
+if ( ! isset( $wp_did_header ) ) {
+
+	$wp_did_header = true;
+
+	// Load the WordPress library.
+	require_once __DIR__ . '/wp-load.php';
+
+	// Set up the WordPress query.
+	wp();
+
+	// Load the theme template.
+	require_once ABSPATH . WPINC . '/template-loader.php';
+
+}
